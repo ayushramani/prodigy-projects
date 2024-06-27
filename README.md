@@ -1,4 +1,10 @@
-this project is about encryption and decryption of 
-user inputs and it is created using ceaser cipher technique.
+These projects are made for prodigy infotech.
+There are total 5 tasks which is given to me for my remote internship.
+Which is related to cyber security 
 
-this project is made for prodigy infotech.
+Task 1 : ceaser cipher encryption and decryption.
+Task 2 : pixel manipulation
+Task 3 : password complexity checker
+Task 4 : simple keylogger
+Task 5 : network packet analyzer
+
